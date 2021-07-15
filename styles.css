@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Roboto+Slab:wght@100;200;300;400;500;600;700;800;900&family=Roboto:ital,wght@0,100;0,300;0,400;0,500;0,700;0,900;1,100;1,300;1,400;1,500;1,700;1,900&display=swap');
+
+.mainblock {
+    
+    width: 1152px;
+    height: 700px;
+}
+.mainbox {
+    margin: 0 auto;
+    margin-top: 150px;
+    width: 336px;
+    padding-bottom: 20px;
+    border: 1px solid #c4c4c4;
+    border-radius: 10px;
+    box-sizing: border-box;
+}
+.yellowline {
+    background-color: #FFDC40;
+    ;
+    width: 334px;
+    height: 28px;
+    border-radius: 10px 10px 0px 0px;
+}       
+.projectname {
+    font-family: Roboto, sans-serif;
+    font-weight: 900;
+    font-size: 26px;
+    padding-left: 105px;
+    margin-top: 13px;
+}
+.filter1 {
+    margin-left: 275px;
+    margin-bottom: 5px;
+}
+.window {
+    
+    width: 286px;
+    min-height: 35px;
+    border: 1px solid #c4c4c4;
+    border-radius: 10px;
+    margin-left: 20px;
+    padding-bottom: 8px;
+}
+.activity {
+    margin-top: 0px;
+    margin-left: 30px;   
+    width: 190px;
+    height: 20px;
+    border: none;
+}
+.lilbutton {
+    border: none;
+    width: 20px;
+    height: 20px;
+    padding-left: 5px;
+    margin-top: 0px;
+}
+.bigbutton {
+    margin-left: 90px;
+    margin-top: 20px;
+}
+.lineitem {
+    display: flex;
+    margin-top: 10px;
+}
